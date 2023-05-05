@@ -1,4 +1,5 @@
 #include "manager.h"
+// 기능가추가 
 
 int selectMenu(){
     int menu;
